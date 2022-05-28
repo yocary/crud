@@ -1,0 +1,6 @@
+com\crud\demo\controller\Controlador.class
+com\crud\demo\modelo\Persona.class
+com\crud\demo\service\PersonaService.class
+com\crud\demo\interfaces\IPersona.class
+com\crud\demo\interfaceService\IpersonaService.class
+com\crud\demo\CrudApplication.class
